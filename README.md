@@ -1,4 +1,4 @@
-# QuizApplicatoin
+# QuizApplication
 
 A CLI appliaction for Quiz. It provides two user interfaces:
   1. For Admin to add questions.
