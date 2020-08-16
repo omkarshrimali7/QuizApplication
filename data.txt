@@ -1,0 +1,50 @@
+[
+    {
+        "Question": "What is 2+2 ?",
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "Correct Answer": "4"
+    },
+    {
+        "Question": "What is 3*3 ?",
+        "A": "3",
+        "B": "4",
+        "C": "6",
+        "D": "9",
+        "Correct Answer": "9"
+    },
+    {
+        "Question": "What is 6!?",
+        "A": "36",
+        "B": "120",
+        "C": "720",
+        "D": "66",
+        "Correct Answer": "720"
+    },
+    {
+        "Question": "What is 7//2?",
+        "A": "3",
+        "B": "3.5",
+        "C": "3.0",
+        "D": "4",
+        "Correct Answer": "3.5"
+    },
+    {
+        "Question": "Who is MSD ?",
+        "A": "Politician",
+        "B": "Cricketer",
+        "C": "Actor",
+        "D": "Minister",
+        "Correct Answer": "Cricketer"
+    },
+    {
+        "Question": "What is 10**0 ?",
+        "A": "10",
+        "B": "0",
+        "C": "1",
+        "D": "2",
+        "Correct Answer": "1"
+    }
+]
